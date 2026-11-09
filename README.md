@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/165K%2B-registrations-3A47D5?style=for-the-badge" alt="165K+ registrations"/>
   <img src="https://img.shields.io/badge/163K%2B-festival%20footfall-0088CC?style=for-the-badge" alt="163K+ footfall"/>
   <img src="https://img.shields.io/badge/7K%2B-participants%20housed-00B4D8?style=for-the-badge" alt="7K+ housed"/>
-  <img src="https://img.shields.io/badge/300%2B-volunteer%20tech%20team-00D4FF?style=for-the-badge" alt="300+ volunteers"/>
+  <img src="https://img.shields.io/badge/300%2B-volunteer%20team-00D4FF?style=for-the-badge" alt="300+ volunteers"/>
 </p>
 
 ---
