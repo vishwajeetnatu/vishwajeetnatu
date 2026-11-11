@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://vishwajeetnatu.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=I+build+systems+real+people+use+at+scale;20M%2B+page+hits+%E2%80%A2+165K%2B+registrations;Ran+tech+for+Asia's+largest+college+fest;LLM+pipelines+%2B+hybrid+semantic+search;Open+to+SDE+roles+%E2%80%94+2027" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=I+build+systems+real+people+use+at+scale;20M%2B+page+hits+%E2%80%A2+165K%2B+registrations;Ran+tech+for+Asia's+largest+college+fest;LLM+pipelines+%2B+hybrid+semantic+search;Open+to+SDE+roles+for+2027" alt="typing"/>
   </a>
 </p>
 
@@ -33,17 +33,17 @@
 
 ```ts
 const vishwajeet = {
-  studying:   "B.Tech, IIT Bombay — Class of 2027",
+  studying:   "B.Tech, IIT Bombay, Class of 2027",
   role:       "Full-stack developer",
   led:        "Web & Tech, Mood Indigo (55th edition)",
   loves:      ["systems under real load", "clean APIs", "LLM tooling"],
   sharpening: ["DSA", "System Design", "SQL"],
-  lookingFor: "Software Engineering roles — 2027",
+  lookingFor: "Software Engineering roles, 2027",
 };
 ```
 
 > Most of my production work lives in **private organisation and client repositories**, so the code isn't public.
-> Below is what each system does and what I owned — happy to walk through the architecture of any of them.
+> Below is what each system does and what I owned. Happy to walk through the architecture of any of them.
 >
 > 📖 **Full write-ups with architecture diagrams:** [Mood Indigo](https://github.com/vishwajeetnatu/case-studies/blob/main/mood-indigo.md) · [Infollion](https://github.com/vishwajeetnatu/case-studies/blob/main/infollion.md) · [Event Discovery Platform](https://github.com/vishwajeetnatu/case-studies/blob/main/event-discovery-platform.md)
 
@@ -52,27 +52,27 @@ const vishwajeet = {
 ## 🚀 What I've built
 
 <details open>
-<summary><b>🎪 Mood Indigo, IIT Bombay — Web & Tech Head, 55th edition</b></summary>
+<summary><b>🎪 Mood Indigo, IIT Bombay | Web & Tech Head, 55th edition</b></summary>
 <br>
 
-*Asia's largest college cultural festival — 163K+ footfall, 9K+ colleges, 240+ events.*
+*Asia's largest college cultural festival: 163K+ footfall, 9K+ colleges, 240+ events.*
 
 | System | What it does | Built with |
 |---|---|---|
 | **My MI Portal** | Multi-tenant platform across 7+ portals that absorbed **165K+ registrations** at peak load, with role-based dashboards over indexed queries | Node.js · MySQL |
-| **Main website** | 3D festival site that sustained **20M+ hits** — led **8+ developers**, owned code review and merges | React.js · Three.js |
-| **Security pass system** | QR gate entry with an admin scanner and sub-second checks — cut manual gate effort by **40%** | Docker · Redis |
-| **Accommodation portal** | Allocated hostel rooms to **7K+ participants** with QR check-in and IDs on S3 — saved 40+ man-hours | Node.js · AWS S3 |
+| **Main website** | 3D festival site that sustained **20M+ hits**; led **8+ developers**, owned code review and merges | React.js · Three.js |
+| **Security pass system** | QR gate entry with an admin scanner and sub-second checks; cut manual gate effort by **40%** | Docker · Redis |
+| **Accommodation portal** | Allocated hostel rooms to **7K+ participants** with QR check-in and IDs on S3; saved 40+ man-hours | Node.js · AWS S3 |
 | **Mood Indigo app** | Android + iOS app with login, passes, venue maps and profiles | React Native |
 | **Infrastructure** | Production on DigitalOcean behind Nginx; DNS, SSL and CDN via Cloudflare; led a 300+ volunteer tech team through live events | DigitalOcean · Nginx · Cloudflare |
 
 </details>
 
 <details>
-<summary><b>🧠 Infollion Research Services — Software Engineer Intern</b></summary>
+<summary><b>🧠 Infollion Research Services | Software Engineer Intern</b></summary>
 <br>
 
-*An AI-assisted industry intelligence platform — TypeScript, React.js, Node.js, PostgreSQL.*
+*An AI-assisted industry intelligence platform in TypeScript, React.js, Node.js, PostgreSQL.*
 
 - 🧬 Generated **22 domain taxonomies** through LLM pipelines on Qwen3 (Ollama) and Gemini 2.5 Flash
 - 🔌 Designed a **provider-agnostic LLM layer** that switches between local and API models by config
@@ -83,7 +83,7 @@ const vishwajeet = {
 </details>
 
 <details>
-<summary><b>🎟️ Event Discovery Platform — Freelance client project</b></summary>
+<summary><b>🎟️ Event Discovery Platform | Freelance client project</b></summary>
 <br>
 
 *A paid platform built end to end on Next.js, Express.js and PostgreSQL.*
@@ -95,7 +95,7 @@ const vishwajeet = {
 </details>
 
 <details>
-<summary><b>🏠 Hostel Affairs, IIT Bombay — Institute System Administrator</b></summary>
+<summary><b>🏠 Hostel Affairs, IIT Bombay | Institute System Administrator</b></summary>
 <br>
 
 *On a 16-member council serving 15K+ students.*
@@ -143,7 +143,7 @@ const vishwajeet = {
 ---
 
 <p align="center">
-  <b>Open to Software Engineering roles for 2027</b> — reach me at <a href="mailto:vishwajeet.natu@iitb.ac.in">vishwajeet.natu@iitb.ac.in</a>
+  <b>Open to Software Engineering roles for 2027</b>. Reach me at <a href="mailto:vishwajeet.natu@iitb.ac.in">vishwajeet.natu@iitb.ac.in</a>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
