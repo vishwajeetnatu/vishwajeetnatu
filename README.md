@@ -44,6 +44,8 @@ const vishwajeet = {
 
 > Most of my production work lives in **private organisation and client repositories**, so the code isn't public.
 > Below is what each system does and what I owned — happy to walk through the architecture of any of them.
+>
+> 📖 **Full write-ups with architecture diagrams:** [Mood Indigo](https://github.com/vishwajeetnatu/case-studies/blob/main/mood-indigo.md) · [Infollion](https://github.com/vishwajeetnatu/case-studies/blob/main/infollion.md) · [Event Discovery Platform](https://github.com/vishwajeetnatu/case-studies/blob/main/event-discovery-platform.md)
 
 ---
 
